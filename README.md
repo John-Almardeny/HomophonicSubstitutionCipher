@@ -1,0 +1,2 @@
+# HomophonicSubstitutionCipher
+Spanish Strip Cipher
